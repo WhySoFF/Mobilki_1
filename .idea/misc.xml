@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/drawable/about.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/layout/fragment_about_owner.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/layout/fragment_game.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/layout/table_item.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/menu/navdrawer_menu.xml" value="0.1" />
+        <entry key="..\:/Progs/AndroidProjects/CatFeeder/app/src/main/res/menu/shared_menu.xml" value="0.39537037037037037" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/about.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/android.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/android_quiz.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/rounded_background.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/rules.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/settings.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/share.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/drawable/you_win.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/font/roboto.xml" value="0.28958333333333336" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/activity_main.xml" value="0.153125" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/fragment_about_owner.xml" value="0.2857142857142857" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/fragment_game.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/fragment_game2.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/fragment_result.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/layout/table_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/menu/navdrawer_menu.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/menu/shared_menu.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16927083333333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/CardFeeder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/CatFeeder/app/src/main/res/drawable/share.xml" value="0.1685185185185185" />
+        <entry key="..\:/SoftProgramms/ASprojects/CatFeeder/app/src/main/res/layout/table_item.xml" value="0.15489130434782608" />
+        <entry key="..\:/SoftProgramms/ASprojects/CatFeeder/app/src/main/res/menu/navdrawer_menu.xml" value="0.259375" />
+        <entry key="..\:/SoftProgramms/ASprojects/CatFeeder/app/src/main/res/menu/shared_menu.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/about.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/about_android_quiz.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/about_android_trivia.xml" value="0.1984375" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/android.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/android_category_simple.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/android_quiz.xml" value="0.24544270833333334" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/android_trivia.xml" value="0.19375" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/custom_button.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/nav_header.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/quiz_rules.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/rounded_background.xml" value="0.1984375" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/rules.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/settings.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/share.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/smile.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/trivia_rules.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/try_again.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/drawable/you_win.xml" value="0.2755208333333333" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_about.xml" value="0.1793478260869565" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_game.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_game_over.xml" value="0.1793478260869565" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_game_won.xml" value="0.15406976744186046" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_more.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_rules.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/fragment_title.xml" value="0.264" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/nav_header.xml" value="0.1793478260869565" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/layout/toast_layout.xml" value="0.2210144927536232" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/menu/navdrawer_menu.xml" value="0.1" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/menu/overflow_menu.xml" value="0.259375" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/menu/winner_menu.xml" value="0.259375" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2712820512820513" />
+        <entry key="..\:/SoftProgramms/ASprojects/Quiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2712820512820513" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
